@@ -24,9 +24,9 @@ VS Code, Jupyter Notebook, SQL, Python
 
 ## Summary
 
-### In essence, the temperatures in Awahoo from what's considered a peak summer month (June), to a peak winter month (December), is not drastically different compared to a lot of other places in the world. It doesn't get too hot, and it doesn't get too cold, generally speaking. 
+#### In essence, the temperatures in Awahoo from what's considered a peak summer month (June), to a peak winter month (December), is not drastically different compared to a lot of other places in the world. It doesn't get too hot, and it doesn't get too cold, generally speaking. 
 
-### While a broad statement, in my opinion this is a very comfortable place to be outside and active, leading to the conclusion that a "Surf and Shake" shop can be considered a good investment for the climate.
+#### While a broad statement, in my opinion this is a very comfortable place to be outside and active, leading to the conclusion that a "Surf and Shake" shop can be considered a good investment for the climate.
 
 ![JuneDec](https://i.gyazo.com/79038160644a799318ec75bbcf8298cf.png)
 
